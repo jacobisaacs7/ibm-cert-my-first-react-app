@@ -1,5 +1,5 @@
 
-#Lab Notes
+# Lab Notes
 
 to create a new project run the following
 `npx create-react-app myfirstapp`
